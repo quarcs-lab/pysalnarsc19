@@ -141,6 +141,7 @@ Were you instead on macOS you would do:
 
 ```bash
 cd /Users/MyName/Downloads/pysalnarsc19-master
+cd /Users/Carlos/GitHub/00-QuaRCS/pysalnarsc19
 ```
 
 Once there, create the workshop environment with:
